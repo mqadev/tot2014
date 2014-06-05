@@ -1,2 +1,3 @@
-username: SAIDATUL
+username: SAIDATUL 
 email: tumbelina5176@gmail.com
+fullname : SAIDATUL ZARIFH SHAMSUDIN
