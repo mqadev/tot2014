@@ -1,0 +1,6 @@
+<cfdump var="#server#" />
+
+<cfset name=[1,2,3] />
+
+<cfdump var=#name# />
+
