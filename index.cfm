@@ -1,4 +1,4 @@
 <title> selamat datang </title>
 <cfquery name = "app">
-select * from tblapp
+select * from tblappbaru
 </cfquery>
